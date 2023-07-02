@@ -1,3 +1,4 @@
 import HomeHeader from "./HomeHeader";
+import HomeSearch from "./HomeSearch";
 
-export { HomeHeader };
+export { HomeHeader, HomeSearch };
